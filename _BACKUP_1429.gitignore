@@ -2,5 +2,8 @@
 .ipynb_checkpoints
 lectures/fig_correlations_dump.pkl
 hidden
+<<<<<<< HEAD
+=======
 Summary_table.txt
 stars.csv
+>>>>>>> upstream/main
